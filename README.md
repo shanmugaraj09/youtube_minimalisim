@@ -6,9 +6,9 @@ the webpage will be localhost
 this projecct created to not to get distracted by youtube video recommentations ads etc
 
 points to remember
-when downloaded to local system , place the json of the client oth for connecting to youtube
-after running the script.py , access the http://127.0.0.1:5000/
-first time we have to manually authenticate after that there be pickle file creaated and it will automatic later that 
+1.when downloaded to local system , place the json of the client oth for connecting to youtube.
+2.after running the script.py , access the http://127.0.0.1:5000/.
+3.first time we have to manually authenticate after that there be pickle file creaated and it will automatic later that .
 
 
 
